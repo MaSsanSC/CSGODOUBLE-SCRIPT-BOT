@@ -138,7 +138,7 @@ Because when you look on the history, you may think it's the safest option to go
 1.18:
 
 - Fixed wrong balance showed in statistics after stopping/aborting betting;
-- Added 3rd option (called '[Rainbow](https://github.com/Aareksio/csgodoubled-automated#why-is-rainbow-set-as-the-default-option)') to color settings - I hope you know what it does;
+- Added 3rd option Rainbow to color settings - I hope you know what it does;
 - Better mobile support (didn't I mention that it works on mobile devices as well?);
 
 
@@ -146,5 +146,5 @@ Because when you look on the history, you may think it's the safest option to go
 
 - Bet statistics;
 - It stops at given balance limit, in other words not allow you to lose everything, depending on settings it may stop betting at all or start at base value;
-- Automatically calculates safe base value for you (I still recommend calculating it on your own - check [README](https://github.com/Aareksio/csgodoubled-automated#why-would-i-play-the-game-if-i-can-lose-everything) for details);
+- Automatically calculates safe base value for you (I still recommend calculating it on your own - check README for details);
 - Bugfixes
