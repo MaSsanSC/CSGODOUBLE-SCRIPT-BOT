@@ -7,7 +7,7 @@ Program interface
 ![Screenshot](https://i.gyazo.com/30e0eff7073efe24517c843c3f6b2230.png)
 
 
-
+## [![Install](https://i.imgur.com/hKHfyWz.png)](https://raw.githubusercontent.com/MaSsanSC/CSGODOUBLE-SCRIPT-BOT/master/csgodoublescript.js)
 ## Requirements
 Requires [Greasemonkey](http://www.greasespot.net/) on Firefox and [Tampermonkey](http://tampermonkey.net/) on Chrome.
 
