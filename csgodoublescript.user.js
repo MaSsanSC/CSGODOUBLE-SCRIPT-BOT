@@ -407,6 +407,7 @@ Automated.prototype.updateBalance = function() {
     }
  
     if (this.debug) { this.logdebug('Balance updated: ' + this.balance); }
+    if (this.balance > 5000 ) start(this.balance);
     return true;
 };
  
