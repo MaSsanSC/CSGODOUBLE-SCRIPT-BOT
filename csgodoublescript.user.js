@@ -228,7 +228,7 @@ function Automated() {
  
     this.menu.start.onclick = function() {
        
-        start(self.balance);
+        self.start();
     };
  
     this.menu.stop.onclick = function() {
