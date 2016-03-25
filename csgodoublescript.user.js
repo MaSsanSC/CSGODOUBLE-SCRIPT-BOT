@@ -11,6 +11,10 @@
 // @match           http://csgopolygon.com/index.php
 // @match           http://www.csgopolygon.com/
 // @match           http://www.csgopolygon.com/index.php
+// @match           http://csgox14.com/
+// @match           http://csgox14.com/index.php
+// @match           http://www.csgox14.com/
+// @match           http://www.csgox14.com/index.php
 // @run-at          document-end
 // @grant           none
 // ==/UserScript==
