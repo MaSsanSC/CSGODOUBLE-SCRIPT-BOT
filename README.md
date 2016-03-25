@@ -1,5 +1,5 @@
 # CSGODouble.com Automated
-### Userscript that bets for you! Automates betting on [CSGODouble](http://www.csgodouble.com/) (works with [CSGOPolygon](http://csgopolygon.com/)).
+### Userscript that bets for you! Automates betting on [CSGODouble](http://www.csgodouble.com/) (works with [CSGOPolygon](http://csgopolygon.com/) and [CSGOx14](http://csgox14.com/)).
 
 Program interface
 
