@@ -1,5 +1,5 @@
-# CSGODouble.com Automated
-### Userscript that bets for you! Automates betting on [CSGODouble](http://www.csgodouble.com/) (works with [CSGOPolygon](http://csgopolygon.com/) (csgopolygon currently no support, we are working on it) and [CSGOx14](http://csgox14.com/)).
+# CSGODouble.gg Automated
+### Userscript that bets for you! Automates betting on [CSGODouble](http://www.csgodouble.gg/) (works with [CSGOPolygon](http://csgopolygon.com/) (csgopolygon currently no support, we are working on it).
 
 Program interface
 
@@ -97,7 +97,9 @@ Because when you look on the history, you may think it's the safest option to go
 
 
 ## Changelog
+1.4:
 
+- Compatible with csgodouble.gg
 1.32:
 - Compatible with CSGOx14.com
 
