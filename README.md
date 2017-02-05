@@ -97,8 +97,11 @@ Because when you look on the history, you may think it's the safest option to go
 
 
 ## Changelog
-1.4:
+
+1.33:
+
 - Compatible with csgodouble.gg
+
 1.32:
 
 - Compatible with CSGOx14.com
