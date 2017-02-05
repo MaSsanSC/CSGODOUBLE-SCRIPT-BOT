@@ -6,15 +6,13 @@
 // @version         1.31
 // @author          csgodouble bot script
 // @match           http://www.csgodouble.com/
+// @match           http://csgodouble.gg/
+// @match           http://csgodouble.gg/*
 // @match           http://www.csgodouble.com/index.php
-// @match           http://csgopolygon.com/
-// @match           http://csgopolygon.com/index.php
+// @match           http://csgopolygon.com/*
+// @match           http://*csgopolygon.com/*
 // @match           http://www.csgopolygon.com/
 // @match           http://www.csgopolygon.com/index.php
-// @match           http://csgox14.com/
-// @match           http://csgox14.com/index.php
-// @match           http://www.csgox14.com/
-// @match           http://www.csgox14.com/index.php
 // @run-at          document-end
 // @grant           none
 // ==/UserScript==
